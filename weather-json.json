@@ -11,5 +11,99 @@
     },
     "phoneNumbers": [
         { "type": "home", "number": "7383627627" }
+    ],
+
+    "conditions": {
+        "now":{
+            "feels_like_c" : 18,
+            "temp_c" : 17
+        }
+    },
+    "forecast": [
+        { 
+            "temp_min_c": "0", 
+            "temp_max_c": "7383627627",
+            "precis": 222,
+            "obs_time_local": "20:20",
+            "prob_precip": "Yes",
+            "wind_dir_compass": "YES",
+            "wind_speed_kph": 88,
+            "rain_range_text": 900,
+            "day_name": "Monday",
+            "icon" : ""
+        },
+        { 
+            "temp_min_c": "home", 
+            "temp_max_c": "7383627627",
+            "precis": 222,
+            "obs_time_local": "20:20",
+            "prob_precip": "Yes",
+            "wind_dir_compass": "YES",
+            "wind_speed_kph": 88,
+            "rain_range_text": 900,
+            "day_name": "Monday",
+            "icon" : ""
+        },
+        { 
+            "temp_min_c": "home", 
+            "temp_max_c": "7383627627",
+            "precis": 222,
+            "obs_time_local": "20:20",
+            "prob_precip": "Yes",
+            "wind_dir_compass": "YES",
+            "wind_speed_kph": 88,
+            "rain_range_text": 900,
+            "day_name": "Monday",
+            "icon" : ""
+        },
+        { 
+            "temp_min_c": "home", 
+            "temp_max_c": "7383627627",
+            "precis": 222,
+            "obs_time_local": "20:20",
+            "prob_precip": "Yes",
+            "wind_dir_compass": "YES",
+            "wind_speed_kph": 88,
+            "rain_range_text": 900,
+            "day_name": "Monday",
+            "icon" : ""
+        },
+        { 
+            "temp_min_c": "home", 
+            "temp_max_c": "7383627627",
+            "precis": 222,
+            "obs_time_local": "20:20",
+            "prob_precip": "Yes",
+            "wind_dir_compass": "YES",
+            "wind_speed_kph": 88,
+            "rain_range_text": 900,
+            "day_name": "Monday",
+            "icon" : ""
+        },
+        { 
+            "temp_min_c": "home", 
+            "temp_max_c": "7383627627",
+            "precis": 222,
+            "obs_time_local": "20:20",
+            "prob_precip": "Yes",
+            "wind_dir_compass": "YES",
+            "wind_speed_kph": 88,
+            "rain_range_text": 900,
+            "day_name": "Monday",
+            "icon" : ""
+        },
+        { 
+            "temp_min_c": "home", 
+            "temp_max_c": "7383627627",
+            "precis": 222,
+            "obs_time_local": "20:20",
+            "prob_precip": "Yes",
+            "wind_dir_compass": "YES",
+            "wind_speed_kph": 88,
+            "rain_range_text": 900,
+            "day_name": "Monday",
+            "icon" : ""
+        }
+
     ]
 }
