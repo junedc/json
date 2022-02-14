@@ -1,9 +1,10 @@
 {
     "conditions": {
-        "now": {
             "feels_like_c": 18,
-            "temp_c": 17
-        }
+            "temp_c": 17,
+            "obs_time_local":"20:21",
+            "wind_dir_compass":"north easterly breeze",
+            "wind_speed_kph":"23"
     },
     "forecast": [
         {
