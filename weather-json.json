@@ -1,13 +1,13 @@
 {
     "conditions": {
-        "now":{
-            "feels_like_c" : 18,
-            "temp_c" : 17
+        "now": {
+            "feels_like_c": 18,
+            "temp_c": 17
         }
     },
     "forecast": [
-        { 
-            "temp_min_c": "13", 
+        {
+            "temp_min_c": "13",
             "temp_max_c": "23",
             "precis": 222,
             "obs_time_local": "20:20",
@@ -16,10 +16,10 @@
             "wind_speed_kph": 88,
             "rain_range_text": 900,
             "day_name": "Tuesday",
-            "icon" : "http://cdn-staging.mtbullercdn.com.au/tripleplay/snowreport/w-icon-clear.png"
+            "icon": "http://cdn-staging.mtbullercdn.com.au/tripleplay/snowreport/w-icon-clear.png"
         },
-        { 
-            "temp_min_c": "13", 
+        {
+            "temp_min_c": "13",
             "temp_max_c": "21",
             "precis": 222,
             "obs_time_local": "20:20",
@@ -28,10 +28,10 @@
             "wind_speed_kph": 88,
             "rain_range_text": 900,
             "day_name": "Wednesday",
-            "icon" : "http://cdn-staging.mtbullercdn.com.au/tripleplay/snowreport/w-icon-clear.png"
+            "icon": "http://cdn-staging.mtbullercdn.com.au/tripleplay/snowreport/w-icon-clear.png"
         },
-        { 
-            "temp_min_c": "11", 
+        {
+            "temp_min_c": "11",
             "temp_max_c": "17",
             "precis": 222,
             "obs_time_local": "20:20",
@@ -40,10 +40,10 @@
             "wind_speed_kph": 88,
             "rain_range_text": 900,
             "day_name": "Thursday",
-            "icon" : "http://cdn-staging.mtbullercdn.com.au/tripleplay/snowreport/w-icon-clear.png"
+            "icon": "http://cdn-staging.mtbullercdn.com.au/tripleplay/snowreport/w-icon-clear.png"
         },
-        { 
-            "temp_min_c": "3", 
+        {
+            "temp_min_c": "3",
             "temp_max_c": "17",
             "precis": 222,
             "obs_time_local": "20:20",
@@ -52,10 +52,10 @@
             "wind_speed_kph": 88,
             "rain_range_text": 900,
             "day_name": "Friday",
-            "icon" : "http://cdn-staging.mtbullercdn.com.au/tripleplay/snowreport/w-icon-clear.png"
+            "icon": "http://cdn-staging.mtbullercdn.com.au/tripleplay/snowreport/w-icon-clear.png"
         },
-        { 
-            "temp_min_c": "8", 
+        {
+            "temp_min_c": "8",
             "temp_max_c": "18",
             "precis": 222,
             "obs_time_local": "20:20",
@@ -64,10 +64,10 @@
             "wind_speed_kph": 88,
             "rain_range_text": 900,
             "day_name": "Saturday",
-            "icon" : "http://cdn-staging.mtbullercdn.com.au/tripleplay/snowreport/w-icon-clear.png"
+            "icon": "http://cdn-staging.mtbullercdn.com.au/tripleplay/snowreport/w-icon-clear.png"
         },
-        { 
-            "temp_min_c": "8", 
+        {
+            "temp_min_c": "8",
             "temp_max_c": "19",
             "precis": 222,
             "obs_time_local": "20:20",
@@ -76,10 +76,10 @@
             "wind_speed_kph": 88,
             "rain_range_text": 900,
             "day_name": "Sunday",
-            "icon" : "http://cdn-staging.mtbullercdn.com.au/tripleplay/snowreport/w-icon-clear.png"
+            "icon": "http://cdn-staging.mtbullercdn.com.au/tripleplay/snowreport/w-icon-clear.png"
         },
-        { 
-            "temp_min_c": "9", 
+        {
+            "temp_min_c": "9",
             "temp_max_c": "17",
             "precis": 222,
             "obs_time_local": "20:20",
@@ -88,8 +88,22 @@
             "wind_speed_kph": 88,
             "rain_range_text": 900,
             "day_name": "Monday",
-            "icon" : "http://cdn-staging.mtbullercdn.com.au/tripleplay/snowreport/w-icon-clear.png"
+            "icon": "http://cdn-staging.mtbullercdn.com.au/tripleplay/snowreport/w-icon-clear.png"
         }
-
-    ]
+    ],
+    "radar": {
+        "static": {
+            "terrain": "",
+            "location": ""
+        },
+        "images": {
+            "image1": "",
+            "image2": "",
+            "image3": "",
+            "image4": "",
+            "image5": "",
+            "image6": "",
+            "image7": ""
+        }
+    }
 }
