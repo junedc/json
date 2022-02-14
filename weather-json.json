@@ -7,80 +7,80 @@
     },
     "forecast": [
         { 
-            "temp_min_c": "0", 
-            "temp_max_c": "7383627627",
+            "temp_min_c": "13", 
+            "temp_max_c": "23",
             "precis": 222,
             "obs_time_local": "20:20",
             "prob_precip": "Yes",
             "wind_dir_compass": "YES",
             "wind_speed_kph": 88,
             "rain_range_text": 900,
-            "day_name": "Monday",
-            "icon" : ""
+            "day_name": "Tuesday",
+            "icon" : "http://cdn-staging.mtbullercdn.com.au/tripleplay/snowreport/w-icon-clear.png"
         },
         { 
-            "temp_min_c": "home", 
-            "temp_max_c": "7383627627",
+            "temp_min_c": "13", 
+            "temp_max_c": "21",
             "precis": 222,
             "obs_time_local": "20:20",
             "prob_precip": "Yes",
             "wind_dir_compass": "YES",
             "wind_speed_kph": 88,
             "rain_range_text": 900,
-            "day_name": "Monday",
-            "icon" : ""
+            "day_name": "Wednesday",
+            "icon" : "http://cdn-staging.mtbullercdn.com.au/tripleplay/snowreport/w-icon-clear.png"
         },
         { 
-            "temp_min_c": "home", 
-            "temp_max_c": "7383627627",
+            "temp_min_c": "11", 
+            "temp_max_c": "17",
             "precis": 222,
             "obs_time_local": "20:20",
             "prob_precip": "Yes",
             "wind_dir_compass": "YES",
             "wind_speed_kph": 88,
             "rain_range_text": 900,
-            "day_name": "Monday",
-            "icon" : ""
+            "day_name": "Thursday",
+            "icon" : "http://cdn-staging.mtbullercdn.com.au/tripleplay/snowreport/w-icon-clear.png"
         },
         { 
-            "temp_min_c": "home", 
-            "temp_max_c": "7383627627",
+            "temp_min_c": "3", 
+            "temp_max_c": "17",
             "precis": 222,
             "obs_time_local": "20:20",
             "prob_precip": "Yes",
             "wind_dir_compass": "YES",
             "wind_speed_kph": 88,
             "rain_range_text": 900,
-            "day_name": "Monday",
-            "icon" : ""
+            "day_name": "Friday",
+            "icon" : "http://cdn-staging.mtbullercdn.com.au/tripleplay/snowreport/w-icon-clear.png"
         },
         { 
-            "temp_min_c": "home", 
-            "temp_max_c": "7383627627",
+            "temp_min_c": "8", 
+            "temp_max_c": "18",
             "precis": 222,
             "obs_time_local": "20:20",
             "prob_precip": "Yes",
             "wind_dir_compass": "YES",
             "wind_speed_kph": 88,
             "rain_range_text": 900,
-            "day_name": "Monday",
-            "icon" : ""
+            "day_name": "Saturday",
+            "icon" : "http://cdn-staging.mtbullercdn.com.au/tripleplay/snowreport/w-icon-clear.png"
         },
         { 
-            "temp_min_c": "home", 
-            "temp_max_c": "7383627627",
+            "temp_min_c": "8", 
+            "temp_max_c": "19",
             "precis": 222,
             "obs_time_local": "20:20",
             "prob_precip": "Yes",
             "wind_dir_compass": "YES",
             "wind_speed_kph": 88,
             "rain_range_text": 900,
-            "day_name": "Monday",
-            "icon" : ""
+            "day_name": "Sunday",
+            "icon" : "http://cdn-staging.mtbullercdn.com.au/tripleplay/snowreport/w-icon-clear.png"
         },
         { 
-            "temp_min_c": "home", 
-            "temp_max_c": "7383627627",
+            "temp_min_c": "9", 
+            "temp_max_c": "17",
             "precis": 222,
             "obs_time_local": "20:20",
             "prob_precip": "Yes",
@@ -88,7 +88,7 @@
             "wind_speed_kph": 88,
             "rain_range_text": 900,
             "day_name": "Monday",
-            "icon" : ""
+            "icon" : "http://cdn-staging.mtbullercdn.com.au/tripleplay/snowreport/w-icon-clear.png"
         }
 
     ]
