@@ -94,17 +94,16 @@
     ],
     "radar": {
         "static": {
-            "terrain": "",
-            "location": ""
+            "terrain": "https://data.weatherzone.com.au/maplayers/wz/terrain/terrain_radar_068_640x480.jpg",
+            "location": "https://data.weatherzone.com.au/maplayers/wz/locations/locations_radar_068_640x480.gif"
         },
         "images": {
-            "image1": "",
-            "image2": "",
-            "image3": "",
-            "image4": "",
-            "image5": "",
-            "image6": "",
-            "image7": ""
+            "image0": "https://otf.weatherzone.com.au/otfimage/timestamped/radar/reflectivity/radar/068/202202141424/twc15/0/radar/068/radsat_640/640x480/image.png",
+            "image1": "https://otf.weatherzone.com.au/otfimage/timestamped/radar/reflectivity/radar/068/202202141429/twc15/0/radar/068/radsat_640/640x480/image.png",
+            "image2": "https://otf.weatherzone.com.au/otfimage/timestamped/radar/reflectivity/radar/068/202202141434/twc15/0/radar/068/radsat_640/640x480/image.png",
+            "image3": "https://otf.weatherzone.com.au/otfimage/timestamped/radar/reflectivity/radar/068/202202141439/twc15/0/radar/068/radsat_640/640x480/image.png",
+            "image4": "https://otf.weatherzone.com.au/otfimage/timestamped/radar/reflectivity/radar/068/202202141444/twc15/0/radar/068/radsat_640/640x480/image.png",
+            "image5": "https://otf.weatherzone.com.au/otfimage/timestamped/radar/reflectivity/radar/068/202202141449/twc15/0/radar/068/radsat_640/640x480/image.png"
         }
     }
 }
